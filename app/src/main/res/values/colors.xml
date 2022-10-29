@@ -7,4 +7,15 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    <color name="green">#04a754</color>
+    <color name="lightgreen">#5aa68b</color>
+    <color name="grey">#353C55</color>
+    <color name="yellow">#FB8C00</color>
+    <color name="red">#d11a2a</color>
+
+    <!--Senadheera-->
+    <color name="backblue">#353C55</color>
+    <color name="greenbtn">#04A754</color>
+    <color name="hint">#AAADBD</color>
 </resources>

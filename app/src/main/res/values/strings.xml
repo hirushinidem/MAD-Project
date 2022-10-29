@@ -1,3 +1,39 @@
 <resources>
-    <string name="app_name">Vehicle Rental App</string>
+    <string name="app_name">GAMANA</string>
+    <string name="btnConfirmBooking">Confirm Booking</string>
+    <string name="txtVehicleRate">Vehicel Rate</string>
+    <string name="txtVRate">How would you rate the vehicle</string>
+    <string name="txtVehicRating">How would you rate the vehicle?</string>
+    <string name="txtDriverRating">How would you rate the driver?</string>
+    <string name="btnConfirmRating">Confirm</string>
+
+    <string name="car1">Toyota Corolla</string>
+    <string name="vehicleNo">CAD-2756</string>
+    <string name="amount">"Rs.30000for5 days "</string>
+
+    <!--Senadheera-->
+    <string name="email">E-Mail</string>
+    <string name="signup">SignUp</string>
+    <string name="alreadyuser">already user ?</string>
+    <string name="reenter">Reenter Password</string>
+    <string name="home">Home</string>
+    <string name="car">Ride</string>
+    <string name="notification">notification</string>
+    <string name="account">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="feedbackMain">Please enter your valuable feedback</string>
+    <string name="txtViewVehicleNo">Vehicle No</string>
+    <string name="txtViewVehicleType">Vehicle Type</string>
+    <string name="txtViewVehicleModel">Vehicle Model</string>
+    <string name="txtViewNoOfPassengers">No of Passengers Allowed</string>
+    <string name="txtNoOfPassengers">No of Passengers</string>
+    <string name="btnAddVehicle">Add Vehicle</string>
+    <string name="btnView">View Vehicles</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnAddVehicles">Add Vehicle</string>
+    <string name="addFeedback">Add Feedback</string>
+
 </resources>
