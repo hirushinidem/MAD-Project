@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="NSBM Cafeteria">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/home"
+                    android:title="Home" />
+
+                <item
+                    android:id="@+id/pay"
+                    android:title="Change Payment Method" />
+
+                <item
+                    android:id="@+id/password"
+                    android:title="Reset Password" />
+
+                <item
+                    android:id="@+id/settings"
+                    android:title="Delete Account" />
+
+                <item
+                    android:id="@+id/terms"
+                    android:title="Terms &amp; Conditions" />
+
+                <item
+                    android:id="@+id/about"
+                    android:title="About Us" />
+
+                <item
+                    android:id="@+id/rate"
+                    android:title="Rate App" />
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:title="Logout" />
+
+            </group>
+        </menu>
+    </item>
+
+</menu>

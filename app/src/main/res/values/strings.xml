@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gamana</string>
+
+    <string name="selectVehicle">Click to select vehicle</string>
+    <string name="pickUp">Select Pick-up Date</string>
+    <string name="dropOff">Select Drop-off Date</string>
+    <string name="calcCost">Calculate Cost</string>
+    <string name="confirmBooking">Confirm Booking</string>
+    <string name="updateBooking">Update Booking Details</string>
+    <string name="viewBookings">View Bookings</string>
+</resources>
