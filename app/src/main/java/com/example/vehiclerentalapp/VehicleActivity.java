@@ -129,7 +129,7 @@ public class VehicleActivity extends AppCompatActivity {
                             Toast.makeText(VehicleActivity.this, "Vehicle deleted", Toast.LENGTH_SHORT).show();
                         }
                         else{
-                            Toast.makeText(VehicleActivity.this, "Vehicle updated", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(VehicleActivity.this, "Vehicle not deleted", Toast.LENGTH_SHORT).show();
                         }
                     }
                 }
